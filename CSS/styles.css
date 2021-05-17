@@ -23,3 +23,18 @@ h3{
     text-decoration: dotted;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDDD;
+    margin: 0 auto;
+}
+
+#container h1{
+    color: lightseagreen;
+    text-align: center;
+    text-decoration: underline double;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
